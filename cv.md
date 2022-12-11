@@ -8,6 +8,7 @@
  - Email: david1991-08@mail.ru
  - DIckord: David Matevosyan (@dava-arm)
  - GitHub: [Matevosyan David](https://github.com/Dava-arm)
+ - Telegram: @davavartani
 
 ## About Me
 
