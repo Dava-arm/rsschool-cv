@@ -11,7 +11,7 @@
 
 ## About Me
 
-am 31 years old and I work in the automotive service industry. Prior to that, he worked in the public service, but the field of programming has always been interesting. So I decided to start by learning the front-end development
+I am 31 years old and I work in the automotive service industry. Prior to that, he worked in the public service, but the field of programming has always been interesting. So I decided to start by learning the front-end development.
 
 ## Skills
 
