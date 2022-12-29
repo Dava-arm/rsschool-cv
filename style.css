@@ -1,6 +1,9 @@
 .header-photo{
-    background-color: coral;
+    background-color: rgb(56, 98, 190);
     margin: 0;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
     }
 .header-menu {
     margin: 0;
@@ -41,4 +44,19 @@ ul li a:hover{
     transform: scale(2);
     opacity: 1;
     filter: blur(0px);
+}
+.intro {
+    font-size: 35px;
+    font-family: 'PT Serif', serif;
+    position: relative;
+    text-align: justify;
+    }
+.main-text {
+    font-size: 45px;
+    text-align: justify;
+    font-family: 'PT Serif', serif, bold;
+}
+img {
+    float: left;
+    margin: 5px 5px 5px;
 }
